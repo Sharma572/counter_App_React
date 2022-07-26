@@ -8,6 +8,6 @@ Created with CodeSandbox
 <ul>
 <li> Whenver we use a varibale in react our component is not updated (freeze).To track updates on component we use state.</li>
 <li>State is like a data container which holds any value.</li>
-<li></li>
+
 </ul>
   
